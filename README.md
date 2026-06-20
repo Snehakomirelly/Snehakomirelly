@@ -1,4 +1,5 @@
 KOMIRELLY SNEHA
+
 🎓 B.Tech Computer Science Student  
 💻 Python Developer | Web Developer | AI Enthusiast  
 🚀 Building real-world applications and improving my software development skills
