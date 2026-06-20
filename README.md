@@ -1,16 +1,72 @@
-## Hi there 👋
+KOMIRELLY SNEHA
+🎓 B.Tech Computer Science Student  
+💻 Python Developer | Web Developer | AI Enthusiast  
+🚀 Building real-world applications and improving my software development skills
 
-<!--
-**Snehakomirelly/Snehakomirelly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
 
-Here are some ideas to get you started:
+I am a B.Tech Computer Science student passionate about software development, web technologies, and artificial intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy creating responsive, user-friendly applications and solving real-world problems through technology. I have experience developing projects using Python, Flask, HTML, CSS, JavaScript, and SQL.
+
+Currently, I am focusing on improving my programming skills, building projects, and preparing for software development opportunities.
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+- Python
+- Java (Basics)
+- C
+
+### Web Development
+- HTML
+- CSS
+- JavaScript
+- Flask
+
+### Database
+- SQL
+- DBMS
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- MS Excel
+
+## 🚀 Projects
+
+### 🤖 AI Email Writer
+AI-powered web application that generates professional emails based on user requirements.
+
+**Features:**
+- AI-based email generation
+- Multiple templates
+- Subject generation
+- Voice input
+- Download options
+
+**Tech Stack:**
+Python | Flask | HTML | CSS | JavaScript
+
+## 🎓 Internship
+
+### Python Programming Intern — Oasis Infobyte (OIBSIP)
+
+- Completed Python Programming Internship
+- Developed practical projects
+- Improved programming and problem-solving skills
+- Worked on application development and deployment
+
+## 📜 Certifications
+
+- Python Programming Internship — Oasis Infobyte
+- Data Science and Analytics — HP
+- Python Essentials — Cisco
+- Python for Data Science — Cognitive Class
+- Java Certification — Great Learning
+- SQL Certification — Simplilearn
+- Generative AI Certification
+- Power BI Certification — Microsoft
+
+---
