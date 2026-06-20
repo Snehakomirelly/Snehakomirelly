@@ -51,8 +51,14 @@ Python | Flask | HTML | CSS | JavaScript
 
 ## 🎓 Internship
 
+### 🤖 Generative AI Intern — CSI (Computer Society of India)
+- Completed Generative AI Internship through CSI
+- Gained knowledge of Generative AI concepts and applications
+- Worked on AI tools, prompt engineering, and AI-based solutions
+- Explored Large Language Models (LLMs) and real-world AI use cases
+- Improved skills in artificial intelligence and emerging technologies
+- 
 ### Python Programming Intern — Oasis Infobyte (OIBSIP)
-
 - Completed Python Programming Internship
 - Developed practical projects
 - Improved programming and problem-solving skills
