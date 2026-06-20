@@ -5,10 +5,9 @@ KOMIRELLY SNEHA
 
 ## 👩‍💻 About Me
 
-I am a B.Tech Computer Science student passionate about software development, web technologies, and artificial intelligence.
-I enjoy creating responsive, user-friendly applications and solving real-world problems through technology. I have experience developing projects using Python, Flask, HTML, CSS, JavaScript, and SQL.
-Currently, I am focusing on improving my programming skills, building projects, and preparing for software development opportunities.
-
+I am a B.Tech Information Technology student passionate about software development, artificial intelligence, and building real-world applications.
+I have hands-on experience in Python, web development, Flask, SQL, and modern development tools. I enjoy creating user-focused solutions, exploring AI technologies, and improving my problem-solving skills through practical projects.
+Currently, I am focused on strengthening my technical skills, developing innovative projects, and preparing for opportunities in software development and AI-driven technologies.
 ## 🛠️ Technical Skills
 
 ### Programming Languages
