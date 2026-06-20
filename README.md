@@ -6,9 +6,7 @@ KOMIRELLY SNEHA
 ## 👩‍💻 About Me
 
 I am a B.Tech Computer Science student passionate about software development, web technologies, and artificial intelligence.
-
 I enjoy creating responsive, user-friendly applications and solving real-world problems through technology. I have experience developing projects using Python, Flask, HTML, CSS, JavaScript, and SQL.
-
 Currently, I am focusing on improving my programming skills, building projects, and preparing for software development opportunities.
 
 ## 🛠️ Technical Skills
@@ -57,7 +55,7 @@ Python | Flask | HTML | CSS | JavaScript
 - Worked on AI tools, prompt engineering, and AI-based solutions
 - Explored Large Language Models (LLMs) and real-world AI use cases
 - Improved skills in artificial intelligence and emerging technologies
-- 
+
 ### Python Programming Intern — Oasis Infobyte (OIBSIP)
 - Completed Python Programming Internship
 - Developed practical projects
