@@ -1,15 +1,15 @@
 KOMIRELLY SNEHA
 
-🎓 B.Tech Computer Science Student  
-💻 Python Developer | Web Developer | AI Enthusiast  
-🚀 Building real-world applications and improving my software development skills
+ B.Tech Computer Science Student  
+ Python Developer | Web Developer | AI Enthusiast  
+ Building real-world applications and improving my software development skills
 
-## 👩‍💻 About Me
+##  About Me
 
 I am a B.Tech Information Technology student passionate about software development, artificial intelligence, and building real-world applications.
 I have hands-on experience in Python, web development, Flask, SQL, and modern development tools. I enjoy creating user-focused solutions, exploring AI technologies, and improving my problem-solving skills through practical projects.
 Currently, I am focused on strengthening my technical skills, developing innovative projects, and preparing for opportunities in software development and AI-driven technologies.
-## 🛠️ Technical Skills
+##  Technical Skills
 
 ### Programming Languages
 - Python
@@ -32,9 +32,9 @@ Currently, I am focused on strengthening my technical skills, developing innovat
 - VS Code
 - MS Excel
 
-## 🚀 Projects
+##  Projects
 
-### 🤖 AI Email Writer
+###  AI Email Writer
 AI-powered web application that generates professional emails based on user requirements.
 
 **Features:**
@@ -47,9 +47,9 @@ AI-powered web application that generates professional emails based on user requ
 **Tech Stack:**
 Python | Flask | HTML | CSS | JavaScript
 
-## 🎓 Internship
+## Internship
 
-### 🤖 Generative AI Intern — CSI (Computer Society of India)
+###  Generative AI Intern — CSI (Computer Society of India)
 - Completed Generative AI Internship through CSI
 - Gained knowledge of Generative AI concepts and applications
 - Worked on AI tools, prompt engineering, and AI-based solutions
@@ -62,7 +62,7 @@ Python | Flask | HTML | CSS | JavaScript
 - Improved programming and problem-solving skills
 - Worked on application development and deployment
 
-## 📜 Certifications
+##  Certifications
 
 - Python Programming Internship — Oasis Infobyte
 - Data Science and Analytics — HP
@@ -72,5 +72,9 @@ Python | Flask | HTML | CSS | JavaScript
 - SQL Certification — Simplilearn
 - Generative AI Certification
 - Power BI Certification — Microsoft
+- Data Analytics — Deloitte
+- FrontEnd Development — Infosys Springboard
+- Advanced Python — Simplilearn
+- Cybersecurity Analyst — Forage
+  
 
----
