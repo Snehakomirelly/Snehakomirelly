@@ -47,7 +47,7 @@ AI-powered web application that generates professional emails based on user requ
 **Tech Stack:**
 Python | Flask | HTML | CSS | JavaScript
 
-## Internship
+###Experience
 
 ###  Generative AI Intern — CSI (Computer Society of India)
 - Completed Generative AI Internship through CSI
