@@ -56,6 +56,11 @@ Python | Flask | HTML | CSS | JavaScript
 - Explored Large Language Models (LLMs) and real-world AI use cases
 - Improved skills in artificial intelligence and emerging technologies
 
+### Web Development Intern — CodSoft
+* Built responsive and user-friendly web pages
+* Improved practical skills in frontend development, website design, and debugging
+* Gained hands-on experience in creating and completing project-based web applications
+
 ### Python Programming Intern — Oasis Infobyte (OIBSIP)
 - Completed Python Programming Internship
 - Developed practical projects
