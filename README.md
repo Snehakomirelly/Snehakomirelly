@@ -84,5 +84,6 @@ Python | Flask | HTML | CSS | JavaScript
 * Frontend Development — Infosys Springboard
 * Advanced Python — Simplilearn
 * Cybersecurity Analyst — Forage
+* Embedded System Internship — Emertxe
 
 
