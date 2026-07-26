@@ -85,5 +85,6 @@ Python | Flask | HTML | CSS | JavaScript
 * Advanced Python — Simplilearn
 * Cybersecurity Analyst — Forage
 * Embedded System Internship — Emertxe
+* Building Data Analyst with AI Agent — Analytics Vidhya
 
 
