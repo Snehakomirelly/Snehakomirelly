@@ -86,5 +86,6 @@ Python | Flask | HTML | CSS | JavaScript
 * Cybersecurity Analyst — Forage
 * Embedded System Internship — Emertxe
 * Building Data Analyst with AI Agent — Analytics Vidhya
+* AI Agents with MongoDB — MongoDB
 
 
